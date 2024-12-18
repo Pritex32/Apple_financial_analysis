@@ -1,4 +1,3 @@
-# Apple_financial_analysis
 
 # Apple Financial Analysis Documentation
 ## Overview
@@ -70,27 +69,24 @@ Clone the repository:
 bash
 
 
-git clone https://github.com/your-username/apple-financial-analysis.git
-Install the required Python libraries:
-bash
+git clone https://github.com/pritex32/ Apple_financial_analysis.git
 
-
-pip install -r requirements.txt
-Run the analysis script:
-bash
-
-
+## files
 python analysis/Apple_financial_statement.py
+
 View the generated visualizations in the visualizations/ folder.
-Visualizations
+## Visualizations
 The analysis includes the following visualizations:
-Revenue and Net Income Trends: Shows consistent growth over the years.
-Gross Margin Trends: Highlights cost efficiency improvements.
-Liabilities vs. Assets: Demonstrates the company's ability to cover liabilities with assets.
-Cash Ratio Trends: Tracks liquidity over time.
+- Revenue and Net Income Trends: Shows consistent growth over the years.
+- Gross Margin Trends: Highlights cost efficiency improvements.
+- Liabilities vs. Assets: Demonstrates the company's ability to cover liabilities with assets.
+- Cash Ratio Trends: Tracks liquidity over time.
+- 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-Author
-Ukanwa Prisca
-For inquiries, please contact: [oluomachiukanwa32@gmail.com]
+
+## Author
+### Ukanwa Prisca
+- For inquiries, please contact: [oluomachiukanwa32@gmail.com]
+
 This documentation provides a comprehensive overview of the repository, its purpose, and how to use it. It is designed to help users understand and replicate the analysis while gaining insights into Apple's financial performance.
